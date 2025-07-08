@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/wnstj-yang/LeetCode/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
+| [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
