@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/wnstj-yang/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/wnstj-yang/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/wnstj-yang/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/wnstj-yang/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
