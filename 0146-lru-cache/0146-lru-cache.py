@@ -63,13 +63,13 @@ class LRUCache:
     def get(self, key):
         if key not in self.cache:
             return -1
-        
+        # 캐싱이 되어있으면 이중연결리스트에 대한 순서 변경
         node = self.cache[key]
         self.remove(node)
         self.add(node)
         return node.value
 
-    # 
+    # 추가
     def put(self, key, value):
         if key in self.cache:
             # 기존 노드 제거
@@ -87,26 +87,32 @@ class LRUCache:
             del self.cache[lru_node.key]
 
     def add(self, node):
+        # 중간에 지워지고 다시 추가되는 경우 + 단순 추가 => self.tail 판단
         if self.tail:
             self.tail.next = node
             node.prev = self.tail
         else:
+            # tail이 없으면 머리통인 head도 추가된다.
             self.head = node
         self.tail = node
-        node.next = None
+        node.next = None # 새로 추가된 경우이므로 next도 None으로 초기화
         
 
     def remove(self, node):
+        # 노드의 prev, next 파악하여 연결
         if node.prev:
+            # 있으면 연결시켜줌
             node.prev.next = node.next
         else:
-            self.head = node.next  # node가 head였다면 head 갱신
-
+            # 없으면 head를 갱신 
+            self.head = node.next 
+        
         if node.next:
+            # 있으면 연결
             node.next.prev = node.prev
         else:
-            self.tail = node.prev  # node가 tail이었다면 tail 갱신
-        # node.prev = node.next = None
+            # 없으면 tail 갱신
+            self.tail = node.prev
 
 
 
