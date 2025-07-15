@@ -63,7 +63,7 @@ class LRUCache:
     def get(self, key):
         if key not in self.cache:
             return -1
-
+        
         node = self.cache[key]
         self.remove(node)
         self.add(node)
@@ -106,7 +106,7 @@ class LRUCache:
             node.next.prev = node.prev
         else:
             self.tail = node.prev  # node가 tail이었다면 tail 갱신
-        node.prev = node.next = None
+        # node.prev = node.next = None
 
 
 
