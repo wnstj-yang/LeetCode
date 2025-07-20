@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/wnstj-yang/LeetCode/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/wnstj-yang/LeetCode/tree/master/0146-lru-cache) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/wnstj-yang/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/wnstj-yang/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
