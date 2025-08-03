@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/wnstj-yang/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/wnstj-yang/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/wnstj-yang/LeetCode/tree/master/0022-generate-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/wnstj-yang/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wnstj-yang/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/wnstj-yang/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
