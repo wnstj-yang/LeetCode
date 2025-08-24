@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/wnstj-yang/LeetCode/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/wnstj-yang/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/wnstj-yang/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/wnstj-yang/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/wnstj-yang/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/wnstj-yang/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/wnstj-yang/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/wnstj-yang/LeetCode/tree/master/0146-lru-cache) |
 ## Design
 |  |
