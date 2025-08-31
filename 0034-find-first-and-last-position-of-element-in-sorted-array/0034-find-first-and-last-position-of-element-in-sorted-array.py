@@ -5,7 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        def binary_search(self, left_side):
+        def binary_search(left_side):
             left, right = 0, len(nums) - 1
             result = -1 # 초기 리턴 값을 -1로 설정(없는 경우 -1)
             while left <= right:
@@ -24,8 +24,8 @@ class Solution(object):
             return result
 
         answer = [-1, -1]
-        answer[0] = binary_search(self, True)
-        answer[1] = binary_search(self, False)
+        answer[0] = binary_search(True)
+        answer[1] = binary_search(False)
         
         return answer
 
