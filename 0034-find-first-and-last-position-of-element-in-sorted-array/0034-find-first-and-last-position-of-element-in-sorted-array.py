@@ -16,7 +16,7 @@ class Solution(object):
                     right = mid - 1
                 else:
                     # 같기 때문에 같은 인덱스는 추가하고 아래는 왼쪽, 오른쪽의 같은 인덱스가 있는 경우 탐색 지속 진행
-                    result = mid
+                    result = mid # 이 부분이 중요...
                     if left_side:
                         right = mid - 1
                     else:
@@ -24,8 +24,8 @@ class Solution(object):
             return result
 
         answer = [-1, -1]
-        answer[0] = binary_search(True)
-        answer[1] = binary_search(False)
+        answer[0] = binary_search(True) # 왼쪽 끝의 target 값을 구한다
+        answer[1] = binary_search(False) # 오른쪽 끝의 target 값을 구한다
         
         return answer
 
