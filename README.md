@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/wnstj-yang/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/wnstj-yang/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/wnstj-yang/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
 ## Stack
 |  |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/wnstj-yang/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
