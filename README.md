@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/wnstj-yang/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wnstj-yang/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/wnstj-yang/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/wnstj-yang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/wnstj-yang/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/wnstj-yang/LeetCode/tree/master/0198-house-robber) |
@@ -117,5 +118,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/wnstj-yang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/wnstj-yang/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
