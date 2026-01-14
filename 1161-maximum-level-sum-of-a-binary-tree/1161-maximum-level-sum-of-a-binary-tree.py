@@ -24,10 +24,11 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        queue = [(root, 1)]
+        queue = deque()
+        queue.append((root, 1))
         total = {}
         while queue:
-            node, now_level = queue.pop(0)
+            node, now_level = queue.popleft()
             if node is None:
                 continue
             if now_level not in total:
