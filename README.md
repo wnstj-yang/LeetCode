@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/wnstj-yang/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/wnstj-yang/LeetCode/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/wnstj-yang/LeetCode/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/wnstj-yang/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/wnstj-yang/LeetCode/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/wnstj-yang/LeetCode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/wnstj-yang/LeetCode/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
