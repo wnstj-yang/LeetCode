@@ -12,8 +12,8 @@ class Solution(object):
             if (idx, result) in ans:
                 return ans[(idx, result)]
 
-            plus = check_sum(idx + 1, result - nums[idx])
-            minus = check_sum(idx + 1, result + nums[idx])
+            minus = check_sum(idx + 1, result - nums[idx])
+            plus = check_sum(idx + 1, result + nums[idx])
 
             # (현재 인덱스, 현재 총합) 기준의 key와 그에 대한 target이 만들어진 경우의 수를 저장 및 반환
             ans[(idx, result)] = plus + minus
