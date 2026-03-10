@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/wnstj-yang/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/wnstj-yang/LeetCode/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/wnstj-yang/LeetCode/tree/master/0372-super-pow) |
 ## Sorting
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/wnstj-yang/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/wnstj-yang/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
