@@ -20,10 +20,4 @@ class Solution(object):
                 result += binary
             binary *= 2
         return result
-        # result = 0
-        # for _ in range(32):
-        #     print(result, n % 2, n)
-        #     result = result * 2 + (n % 2)
-        #     n = n // 2
-        # print(result)
         
