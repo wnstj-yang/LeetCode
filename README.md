@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/wnstj-yang/LeetCode/tree/master/0022-generate-parentheses) |
+| [0087-scramble-string](https://github.com/wnstj-yang/LeetCode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/wnstj-yang/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/wnstj-yang/LeetCode/tree/master/0494-target-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/wnstj-yang/LeetCode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/wnstj-yang/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/wnstj-yang/LeetCode/tree/master/0049-group-anagrams) |
+| [0087-scramble-string](https://github.com/wnstj-yang/LeetCode/tree/master/0087-scramble-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/wnstj-yang/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Backtracking
 |  |
