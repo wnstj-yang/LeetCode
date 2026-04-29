@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/wnstj-yang/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/wnstj-yang/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
+| [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
 | [0457-circular-array-loop](https://github.com/wnstj-yang/LeetCode/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/wnstj-yang/LeetCode/tree/master/0475-heaters) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/wnstj-yang/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/wnstj-yang/LeetCode/tree/master/0190-reverse-bits) |
+| [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0372-super-pow](https://github.com/wnstj-yang/LeetCode/tree/master/0372-super-pow) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/wnstj-yang/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
 | [0475-heaters](https://github.com/wnstj-yang/LeetCode/tree/master/0475-heaters) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/wnstj-yang/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Counting
@@ -169,4 +172,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/wnstj-yang/LeetCode/tree/master/0808-soup-servings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
