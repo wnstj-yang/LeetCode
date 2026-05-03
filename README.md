@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/wnstj-yang/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/wnstj-yang/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/wnstj-yang/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 ## Union Find
 |  |
 | ------- |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/wnstj-yang/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/wnstj-yang/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
