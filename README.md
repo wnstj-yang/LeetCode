@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/wnstj-yang/LeetCode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/wnstj-yang/LeetCode/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/wnstj-yang/LeetCode/tree/master/0752-open-the-lock) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/wnstj-yang/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/wnstj-yang/LeetCode/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/wnstj-yang/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/wnstj-yang/LeetCode/tree/master/0457-circular-array-loop) |
+| [0752-open-the-lock](https://github.com/wnstj-yang/LeetCode/tree/master/0752-open-the-lock) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/wnstj-yang/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
+| [0752-open-the-lock](https://github.com/wnstj-yang/LeetCode/tree/master/0752-open-the-lock) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/wnstj-yang/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/wnstj-yang/LeetCode/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/wnstj-yang/LeetCode/tree/master/0087-scramble-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/wnstj-yang/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0752-open-the-lock](https://github.com/wnstj-yang/LeetCode/tree/master/0752-open-the-lock) |
 ## Backtracking
 |  |
 | ------- |
