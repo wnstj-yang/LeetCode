@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/wnstj-yang/LeetCode/tree/master/0752-open-the-lock) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/wnstj-yang/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/wnstj-yang/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
 | [0752-open-the-lock](https://github.com/wnstj-yang/LeetCode/tree/master/0752-open-the-lock) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/wnstj-yang/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/wnstj-yang/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wnstj-yang/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0475-heaters](https://github.com/wnstj-yang/LeetCode/tree/master/0475-heaters) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/wnstj-yang/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/wnstj-yang/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/wnstj-yang/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/wnstj-yang/LeetCode/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/wnstj-yang/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/wnstj-yang/LeetCode/tree/master/0218-the-skyline-problem) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/wnstj-yang/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
@@ -205,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/wnstj-yang/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/wnstj-yang/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
