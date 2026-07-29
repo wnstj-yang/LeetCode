@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/wnstj-yang/LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/wnstj-yang/LeetCode/tree/master/0494-target-sum) |
 | [0808-soup-servings](https://github.com/wnstj-yang/LeetCode/tree/master/0808-soup-servings) |
+| [1531-string-compression-ii](https://github.com/wnstj-yang/LeetCode/tree/master/1531-string-compression-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/wnstj-yang/LeetCode/tree/master/0087-scramble-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/wnstj-yang/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0752-open-the-lock](https://github.com/wnstj-yang/LeetCode/tree/master/0752-open-the-lock) |
+| [1531-string-compression-ii](https://github.com/wnstj-yang/LeetCode/tree/master/1531-string-compression-ii) |
 ## Backtracking
 |  |
 | ------- |
