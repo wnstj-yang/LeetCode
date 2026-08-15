@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/wnstj-yang/LeetCode/tree/master/0494-target-sum) |
 | [0739-daily-temperatures](https://github.com/wnstj-yang/LeetCode/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/wnstj-yang/LeetCode/tree/master/0752-open-the-lock) |
+| [0927-three-equal-parts](https://github.com/wnstj-yang/LeetCode/tree/master/0927-three-equal-parts) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/wnstj-yang/LeetCode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/wnstj-yang/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/wnstj-yang/LeetCode/tree/master/0189-rotate-array) |
 | [0372-super-pow](https://github.com/wnstj-yang/LeetCode/tree/master/0372-super-pow) |
 | [0808-soup-servings](https://github.com/wnstj-yang/LeetCode/tree/master/0808-soup-servings) |
+| [0927-three-equal-parts](https://github.com/wnstj-yang/LeetCode/tree/master/0927-three-equal-parts) |
 ## Two Pointers
 |  |
 | ------- |
